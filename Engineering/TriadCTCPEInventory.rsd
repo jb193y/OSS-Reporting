@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>SRS_DataSource</DataSourceReference>
+      <CommandText>SELECT * FROM [SSRSQuery].[dbo].[TRD_CT_CPE_INVENTORY]</CommandText>
+      <Timeout>30</Timeout>
+    </Query>
+    <Fields>
+      <Field Name="DEVICE_NBR">
+        <DataField>DEVICE_NBR</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="SERIAL_NUMBER">
+        <DataField>SERIAL_NUMBER</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="UNIT_ADDR">
+        <DataField>UNIT_ADDR</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="OUI">
+        <DataField>OUI</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="MAC_ADDRESS">
+        <DataField>MAC_ADDRESS</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="MODEL_TYPE">
+        <DataField>MODEL_TYPE</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="DEVICE_TYPE">
+        <DataField>DEVICE_TYPE</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

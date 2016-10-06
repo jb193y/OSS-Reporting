@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkZGw1MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAiIHhtbG5zOmRkbDUwMF81MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAvNTAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD50cnVlPC9FbmFibGVkPg0KICA8UHJvamVjdE5hbWU+U0FLPC9Qcm9qZWN0TmFtZT4NCiAgPEF1eFBhdGg+U0FLPC9BdXhQYXRoPg0KICA8TG9jYWxQYXRoPlNBSzwvTG9jYWxQYXRoPg0KICA8UHJvdmlkZXI+U0FLPC9Qcm92aWRlcj4NCjwvU291cmNlQ29udHJvbEluZm8+</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>SRS_DataSource.rds</Name>
+      <FullPath>SRS_DataSource.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets>
+    <ProjectItem>
+      <Name>ActiveFiOSDataSubs.rsd</Name>
+      <FullPath>ActiveFiOSDataSubs.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CT7750Network.rsd</Name>
+      <FullPath>CT7750Network.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DSLAM_to_Router.rsd</Name>
+      <FullPath>DSLAM_to_Router.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiberCapableDataSet.rsd</Name>
+      <FullPath>FiberCapableDataSet.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS Package Counts.rsd</Name>
+      <FullPath>FiOS Package Counts.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOSDataVideoServiceCountsByOLT.rsd</Name>
+      <FullPath>FiOSDataVideoServiceCountsByOLT.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOSONTCountsByOLT.rsd</Name>
+      <FullPath>FiOSONTCountsbyOLT.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOSServicesCountByOLT.rsd</Name>
+      <FullPath>FiOSServicesCountByOLT.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ftvNetworkArchitecture.rsd</Name>
+      <FullPath>ftvNetworkArchitecture.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>InvalidBPONSubs.rsd</Name>
+      <FullPath>InvalidBPONSubs.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>nasPortId.rsd</Name>
+      <FullPath>nasPortId.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>OLT_to_Router.rsd</Name>
+      <FullPath>OLT_to_Router.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ONTActivation.rsd</Name>
+      <FullPath>ONTActivation.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPLDropShip.rsd</Name>
+      <FullPath>SIMPLDropShip.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>STBActivation.rsd</Name>
+      <FullPath>STBActivation.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadDeviceCountByState.rsd</Name>
+      <FullPath>TriadDeviceCountByState.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadFiOSCustomerServiceCounts.rsd</Name>
+      <FullPath>TriadFiOSCustomerServiceCounts.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UsersActiveUserToRole.rsd</Name>
+      <FullPath>UsersActiveUserToRole.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerseCustCountByDataPackageSpeedBonded.rsd</Name>
+      <FullPath>UVerseCustCountByDataPackageSpeedBonded.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerseCustCountByDSLAM.rsd</Name>
+      <FullPath>UVerseCustCountByDSLAM.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerseCustCountByVideoPackage.rsd</Name>
+      <FullPath>UVerseCustCountByVideoPackage.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerseInfo.rsd</Name>
+      <FullPath>UVerseInfo.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerseServicesAndSTBCountByDSLAM.rsd</Name>
+      <FullPath>UVerseServicesAndSTBCountByDSLAM.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
+  <Reports>
+    <ProjectItem>
+      <Name>Active FiOS Data Subs.rdl</Name>
+      <FullPath>Active FiOS Data Subs.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CT 7750 Network.rdl</Name>
+      <FullPath>CT 7750 Network.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DSLAM to Router Info.rdl</Name>
+      <FullPath>DSLAM to Router Info.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Fiber Capable Homes.rdl</Name>
+      <FullPath>Fiber Capable Homes.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS Customer Counts.rdl</Name>
+      <FullPath>FiOS Customer Counts.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS Data Video Service Counts By OLT.rdl</Name>
+      <FullPath>FiOS Data Video Service Counts By OLT.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS ONT Counts By OLT.rdl</Name>
+      <FullPath>FiOS ONT Counts By OLT.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS Package Counts.rdl</Name>
+      <FullPath>FiOS Package Counts.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS Services Count By OLT.rdl</Name>
+      <FullPath>FiOS Services Count By OLT.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FTV Network Architecture.rdl</Name>
+      <FullPath>FTV Network Architecture.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Invalid BPON Data Speeds.rdl</Name>
+      <FullPath>Invalid BPON Data Speeds.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>nasPortId.rdl</Name>
+      <FullPath>nasPortId.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>OLT to Router Info.rdl</Name>
+      <FullPath>OLT to Router Info.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ONT Activation.rdl</Name>
+      <FullPath>ONT Activation.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPL Drop-Ship Report.rdl</Name>
+      <FullPath>SIMPL Drop-Ship Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>STB Activation.rdl</Name>
+      <FullPath>STB Activation.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad Active Device Count By State.rdl</Name>
+      <FullPath>Triad Active Device Count By State.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Users Active User To Role.rdl</Name>
+      <FullPath>Users Active User To Role.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerse Customer Count By Video Package.rdl</Name>
+      <FullPath>UVerse Customer Count By Video Package.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerse Customer Counts By Data Package Speed and Bonded.rdl</Name>
+      <FullPath>UVerse Customer Counts By Data Package Speed and Bonded.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerse Customer Counts by DSLAM.rdl</Name>
+      <FullPath>UVerse Customer Counts by DSLAM.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerse Services And STB Count By DSLAM.rdl</Name>
+      <FullPath>UVerse Services And STB Count By DSLAM.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UVerseInfo.rdl</Name>
+      <FullPath>UVerseInfo.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2016</TargetServerVersion>
+        <TargetServerURL>http://localhost/reportserver</TargetServerURL>
+        <TargetFolder>OSS Reporting</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <OverwriteDataSources>true</OverwriteDataSources>
+        <TargetDatasetFolder>Datasets/OSS DataSets</TargetDatasetFolder>
+        <OverwriteDatasets>true</OverwriteDatasets>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>OSS Reporting</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>OSS Reporting</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>

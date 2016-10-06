@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>SRS_DataSource</DataSourceReference>
+      <CommandType>StoredProcedure</CommandType>
+      <CommandText>sp_TRIAD_STB_Report_for_WA</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="subscriber_id">
+        <DataField>subscriber_id</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="unit_addr">
+        <DataField>unit_addr</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="zip">
+        <DataField>zip</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="billing_tn">
+        <DataField>billing_tn</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

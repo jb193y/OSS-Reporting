@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>SRS_DataSource</DataSourceReference>
+      <CommandType>StoredProcedure</CommandType>
+      <CommandText>sp_CT_7750_Network</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="IP_ID">
+        <DataField>IP_ID</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="ESS7_CLLI">
+        <DataField>ESS7_CLLI</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="ESS7_IP_ADDR">
+        <DataField>ESS7_IP_ADDR</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="SR12_IO_PRI_CLLI">
+        <DataField>SR12_IO_PRI_CLLI</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="SR12_IO_PRI_IP">
+        <DataField>SR12_IO_PRI_IP</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="SR12_IO_SEC_CLLI">
+        <DataField>SR12_IO_SEC_CLLI</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="SR12_IO_SEC_IP">
+        <DataField>SR12_IO_SEC_IP</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

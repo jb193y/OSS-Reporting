@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkZGw1MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAiIHhtbG5zOmRkbDUwMF81MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAvNTAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD50cnVlPC9FbmFibGVkPg0KICA8UHJvamVjdE5hbWU+U0FLPC9Qcm9qZWN0TmFtZT4NCiAgPEF1eFBhdGg+U0FLPC9BdXhQYXRoPg0KICA8TG9jYWxQYXRoPlNBSzwvTG9jYWxQYXRoPg0KICA8UHJvdmlkZXI+U0FLPC9Qcm92aWRlcj4NCjwvU291cmNlQ29udHJvbEluZm8+</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>SRS_DataSource.rds</Name>
+      <FullPath>SRS_DataSource.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets>
+    <ProjectItem>
+      <Name>DPIBTNInfo.rsd</Name>
+      <FullPath>DPIBTNInfo.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DPIIndianaRegulatoryReport.rsd</Name>
+      <FullPath>DPIIndianaRegulatoryReport.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DPITriadServiceInfo.rsd</Name>
+      <FullPath>DPITriadServiceInfo.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPLLogins.rsd</Name>
+      <FullPath>SIMPLLogins.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPLTotalUsage.rsd</Name>
+      <FullPath>SIMPLTotalUsage.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPLUniqueUsers.rsd</Name>
+      <FullPath>SIMPLUniqueUsers.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPLUserUtilizationMTD.rsd</Name>
+      <FullPath>SIMPLUserUtilizationMTD.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPLUserUtilizationYTD.rsd</Name>
+      <FullPath>SIMPLUserUtilizationYTD.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadCTCPEInventory.rsd</Name>
+      <FullPath>TriadCTCPEInventory.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadCTVPLSUsage.rsd</Name>
+      <FullPath>TriadCTVPLSUsage.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadDupVPIVCI.rsd</Name>
+      <FullPath>TriadDupVPIVCI.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadIPNetworkConnInfo.rsd</Name>
+      <FullPath>TRIADIPNetworkConnInfo.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadONTBPON2GPONSameDayChanges.rsd</Name>
+      <FullPath>TriadONTBPON2GPONSameDayChanges.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TriadVIPAccounts.rsd</Name>
+      <FullPath>TriadVIPAccounts.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
+  <Reports>
+    <ProjectItem>
+      <Name>DPI BTN Info.rdl</Name>
+      <FullPath>DPI BTN Info.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DPI Indiana Regulatory Report.rdl</Name>
+      <FullPath>DPI Indiana Regulatory Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DPI Triad Service Info.rdl</Name>
+      <FullPath>DPI Triad Service Info.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPL Logins.rdl</Name>
+      <FullPath>SIMPL Logins.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPL Total Usage.rdl</Name>
+      <FullPath>SIMPL Total Usage.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPL Unique User.rdl</Name>
+      <FullPath>SIMPL Unique User.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPL User Utilization MTD Report.rdl</Name>
+      <FullPath>SIMPL User Utilization MTD Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SIMPL User Utilization YTD Report.rdl</Name>
+      <FullPath>SIMPL User Utilization YTD Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad CT CPE Inventory - CTDI.rdl</Name>
+      <FullPath>Triad CT CPE Inventory - CTDI.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad CT VPLS Usage.rdl</Name>
+      <FullPath>Triad CT VPLS Usage.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad Duplicate VPI VCI Info.rdl</Name>
+      <FullPath>Triad Duplicate VPI VCI Info.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad IP Network Conn Info.rdl</Name>
+      <FullPath>Triad IP Network Conn Info.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad ONT BPON2GPON Same Day Changes.rdl</Name>
+      <FullPath>Triad ONT BPON2GPON Same Day Changes.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad VIP Accounts.rdl</Name>
+      <FullPath>Triad VIP Accounts.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2016</TargetServerVersion>
+        <TargetServerURL>http://localhost/reportserver</TargetServerURL>
+        <TargetFolder>FIT Reporting</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets/FIT DataSets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>Engineering</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>Engineering</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>
