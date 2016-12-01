@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SRS_DataSource">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=TRIINFWWDSV01.corp.pvt;Initial Catalog=SSRSQuery</ConnectString>
+    <ConnectString>Data Source=TRIINFWWDSV01;Initial Catalog=SSRSQuery</ConnectString>
   </ConnectionProperties>
   <DataSourceID>ec2c03ef-e209-49bd-872c-0da44a4747d9</DataSourceID>
 </RptDataSource>

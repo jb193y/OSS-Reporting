@@ -7,8 +7,30 @@
       <FullPath>SRS_DataSource.rds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSets />
-  <Reports />
+  <DataSets>
+    <ProjectItem>
+      <Name>sp_TRD_RPRT_UVRS_Customer_Info.rsd</Name>
+      <FullPath>sp_TRD_RPRT_UVRS_Customer_Info.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TST1.rsd</Name>
+      <FullPath>TST1.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TST2.rsd</Name>
+      <FullPath>TST2.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
+  <Reports>
+    <ProjectItem>
+      <Name>sp_TRD_RPRT_UVRS_Customer_Info2.rdl</Name>
+      <FullPath>sp_TRD_RPRT_UVRS_Customer_Info2.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>TST.rdl</Name>
+      <FullPath>TST.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
   <Configurations>
     <Configuration>
       <Name>Debug</Name>
@@ -19,7 +41,9 @@
         <TargetServerURL>http://localhost/reportserver</TargetServerURL>
         <TargetFolder>Device Centric Reporting</TargetFolder>
         <TargetDataSourceFolder>Data Sources/Device Centric Reporting</TargetDataSourceFolder>
+        <OverwriteDataSources>true</OverwriteDataSources>
         <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <OverwriteDatasets>true</OverwriteDatasets>
         <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
       </Options>
     </Configuration>

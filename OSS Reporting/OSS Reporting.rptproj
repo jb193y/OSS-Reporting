@@ -119,10 +119,6 @@
       <FullPath>Fiber Capable Homes.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>FiOS Customer Counts.rdl</Name>
-      <FullPath>FiOS Customer Counts.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>FiOS Data Video Service Counts By OLT.rdl</Name>
       <FullPath>FiOS Data Video Service Counts By OLT.rdl</FullPath>
     </ProjectItem>
