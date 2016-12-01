@@ -64,6 +64,10 @@
       <Name>UverseSTBInventory.rsd</Name>
       <FullPath>UverseSTBInventory.rsd</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>VZ3VZIDFTRIDInfo.rsd</Name>
+      <FullPath>VZ3VZIDFTRIDInfo.rsd</FullPath>
+    </ProjectItem>
   </DataSets>
   <Reports>
     <ProjectItem>
@@ -121,6 +125,10 @@
     <ProjectItem>
       <Name>Uverse STB Inventory.rdl</Name>
       <FullPath>Uverse STB Inventory.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>VZ3 VZId 2 FTRId Info.rdl</Name>
+      <FullPath>VZ3 VZId 2 FTRId Info.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
