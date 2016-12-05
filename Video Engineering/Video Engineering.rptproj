@@ -29,6 +29,10 @@
       <FullPath>MediaroomErrorReport.rsd</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>TRD_RPT_STB_by_TypeModelStateZip.rsd</Name>
+      <FullPath>TRD_RPT_STB_by_TypeModelStateZip.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Triad_Zone_to_Sub_Group.rsd</Name>
       <FullPath>Triad_Zone_to_Sub_Group.rsd</FullPath>
     </ProjectItem>
@@ -91,8 +95,20 @@
       <FullPath>Mediaroom Subscriber Groups to Zone.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>Report1.rdl</Name>
+      <FullPath>Report1.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Report2.rdl</Name>
+      <FullPath>Report2.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Triad DAC Mapping.rdl</Name>
       <FullPath>Triad DAC Mapping.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Triad STB Statistics (Active Only).rdl</Name>
+      <FullPath>Triad STB Statistics (Active Only).rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Triad STB Daily Report - CT.rdl</Name>

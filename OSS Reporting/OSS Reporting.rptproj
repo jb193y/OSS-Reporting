@@ -29,10 +29,6 @@
       <FullPath>FiOS Package Counts.rsd</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>FiOSDataVideoServiceCountsByOLT.rsd</Name>
-      <FullPath>FiOSDataVideoServiceCountsByOLT.rsd</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>FiOSONTCountsByOLT.rsd</Name>
       <FullPath>FiOSONTCountsbyOLT.rsd</FullPath>
     </ProjectItem>
@@ -119,10 +115,6 @@
       <FullPath>Fiber Capable Homes.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>FiOS Data Video Service Counts By OLT.rdl</Name>
-      <FullPath>FiOS Data Video Service Counts By OLT.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>FiOS ONT Counts By OLT.rdl</Name>
       <FullPath>FiOS ONT Counts By OLT.rdl</FullPath>
     </ProjectItem>
@@ -189,6 +181,10 @@
     <ProjectItem>
       <Name>UVerseInfo.rdl</Name>
       <FullPath>UVerseInfo.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FiOS Data Video Service Counts By OLT.rdl</Name>
+      <FullPath>FiOS Data Video Service Counts By OLT.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>

@@ -30,6 +30,10 @@
       <Name>TST.rdl</Name>
       <FullPath>TST.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>ReportTemplate.rdl</Name>
+      <FullPath>ReportTemplate.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
