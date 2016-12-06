@@ -36,7 +36,7 @@ FROM [SSRSQuery].[dbo].TRIAD_FiOS_Data_Video_Service_Count_by_OLT DT
 WHERE 1=1
 AND DT.NAME = @OLT_CLLI
 AND DT.SERVICE NOT LIKE '%+FiOS TV'
-ORDER BY DT.SERVICE ASC</CommandText>
+ORDER BY CAST(REPLACE(REPLACE(REPLACE(REPLACE(DT.SERVICE, 'FiOS TV','999999'), 'K',''), 'F',''), 'M','') AS INT) ASC</CommandText>
       </Query>
       <Fields>
         <Field Name="STATE">
