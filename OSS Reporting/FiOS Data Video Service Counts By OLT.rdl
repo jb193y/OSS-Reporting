@@ -51,6 +51,10 @@ ORDER BY DT.SERVICE ASC</CommandText>
           <DataField>SERVICE</DataField>
           <rd:TypeName>System.String</rd:TypeName>
         </Field>
+        <Field Name="SERVICE_DESC">
+          <DataField>SERVICE_DESC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
         <Field Name="DATA_ONLY">
           <DataField>DATA_ONLY</DataField>
           <rd:TypeName>System.Decimal</rd:TypeName>
@@ -74,19 +78,22 @@ ORDER BY DT.SERVICE ASC</CommandText>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>1.97007in</Width>
+                  <Width>1.39021in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.01653in</Width>
+                  <Width>2.61111in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.02083in</Width>
+                  <Width>1.53216in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.85417in</Width>
+                  <Width>1.40624in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.19965in</Width>
+                  <Width>1.54167in</Width>
+                </TablixColumn>
+                <TablixColumn>
+                  <Width>1.57465in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -114,6 +121,40 @@ ORDER BY DT.SERVICE ASC</CommandText>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>Textbox10</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox60">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Service Code Description</Value>
+                                  <Style>
+                                    <FontWeight>Bold</FontWeight>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox60</rd:DefaultName>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -204,7 +245,7 @@ ORDER BY DT.SERVICE ASC</CommandText>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Data and Video Service</Value>
+                                  <Value>Data &amp; Video Service</Value>
                                   <Style>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -287,6 +328,38 @@ ORDER BY DT.SERVICE ASC</CommandText>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>SERVICE</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="SERVICE_DESC">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!SERVICE_DESC.Value</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>SERVICE_DESC</rd:DefaultName>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -439,6 +512,7 @@ ORDER BY DT.SERVICE ASC</CommandText>
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               </TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -463,7 +537,7 @@ ORDER BY DT.SERVICE ASC</CommandText>
             <Top>2.44382in</Top>
             <Left>0.11979in</Left>
             <Height>0.58334in</Height>
-            <Width>10.06125in</Width>
+            <Width>10.05604in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -1402,7 +1476,7 @@ ORDER BY DT.SERVICE ASC</CommandText>
           </Border>
         </Style>
       </Body>
-      <Width>10.26653in</Width>
+      <Width>10.24007in</Width>
       <Page>
         <PageHeader>
           <Height>0.625in</Height>
